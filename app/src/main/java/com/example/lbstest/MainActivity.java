@@ -30,6 +30,9 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * 测试git分支
+     */
     public LocationClient mLocationClient;
     private MapView mapView;
     private TextView positionText;
